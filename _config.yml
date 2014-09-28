@@ -2,9 +2,9 @@ name: Herring Cove
 author: Herring Cove
 markdown: redcarpet
 pygments: true
-baseurl: /herring-cove
+baseurl: proofreading-website.github.io
 description: theme for jekyll
-github: http://www.github.com/arnp
+github: http://www.github.com/proofreading-website
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com
