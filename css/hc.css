@@ -269,7 +269,7 @@ pre
   font-size:3em;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:bolder;
-  color:#fff;
+  color:#000;
   text-align:center;
   padding-top:20%
 }
@@ -352,8 +352,8 @@ pre
 {
   border-radius:.5em;
   background-color:transparent;
-  border:1px solid rgba(255,255,255,.4);
-  color:rgba(255,255,255,.8);
+  border:1px solid rgba(0,0,0,.4);
+  color:rgba(0,0,0,.8);
   font-weight:200;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
 }
