@@ -239,8 +239,9 @@ table {
   a[href^="#"]:after {
     content: "";
   }
-  pre,
-  blockquote {
+  pre
+  /*, blockquote
+  */ {
     border: 1px solid #999;
     page-break-inside: avoid;
   }
@@ -680,7 +681,7 @@ abbr.initialism {
   font-size: 90%;
   text-transform: uppercase;
 }
-
+/*
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
@@ -733,7 +734,7 @@ blockquote.pull-right .small:after {
 blockquote:before,
 blockquote:after {
   content: "";
-}
+}*/
 
 address {
   margin-bottom: 20px;
@@ -5898,10 +5899,10 @@ a.list-group-item.active:focus .list-group-item-text {
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 
-.well blockquote {
+/*.well blockquote {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, 0.15);
-}
+}*/
 
 .well-lg {
   padding: 24px;
