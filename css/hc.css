@@ -155,6 +155,13 @@ p
   color:#5d5f67
 }
 
+.sidebar-nav > .sidebar-info > h3
+{
+  font-size:15px;
+  font-weight:100;
+  color:#5d5f67
+}
+
 .nav-toggle {
     display: none;
     color: #000;
