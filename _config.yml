@@ -1,5 +1,5 @@
-name: Herring Cove
-author: Herring Cove
+name: David Guest
+author: David Guest
 markdown: redcarpet
 pygments: true
 baseurl: http://proofreading.website
@@ -8,7 +8,7 @@ github: http://www.github.com/proofreading-website
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
+email: davidguest[at]proofreading.website
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 
