@@ -220,8 +220,8 @@ li.sidebar-info > p {
 
 blockquote
 {
-  border-left:2px solid #000;
-  border-right:2px solid #000;
+  border-left:0px solid #000;
+  border-right:0px solid #000;
   margin-left:-40px;
   margin-right:-40px;
   padding-left:40px;
