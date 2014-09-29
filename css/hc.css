@@ -163,7 +163,7 @@ p
 }
 
 li.sidebar-info > p {
-  color:#999
+  color:#999;
   text-indent: 0px !important;
   padding-left: 2em;
 }
