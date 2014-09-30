@@ -220,8 +220,8 @@ li.sidebar-info > p {
 
 blockquote
 {
-  border-left:0px solid #000;
-  border-right:0px solid #000;
+  border-left:0px solid #d90006;
+  border-right:0px solid #d90006;
   margin-left:-40px;
   margin-right:-40px;
   padding-left:40px;
@@ -770,13 +770,6 @@ form {
   padding-bottom: 2em;
 }
 
-blockquote {
-  font-size: 18px;
-  font-style: italic;
-  line-height: 1.45;
-  position: relative;
-  color: #383838;
-}
 
 blockquote:before {
   display: block;
