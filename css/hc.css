@@ -769,3 +769,20 @@ time
 form {
   padding-bottom: 2em;
 }
+
+@import url('http://fortawesome.github.com/Font-Awesome/assets/css/font-awesome.css');
+
+.container {
+    margin: 50px;
+}
+
+blockquote {
+    border-left: none;
+}
+
+blockquote:before {
+    content: "\f10d"; 
+    font-family: FontAwesome;
+    float: left;
+    margin-right: 10px;
+}
