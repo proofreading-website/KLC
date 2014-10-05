@@ -275,12 +275,13 @@ pre
 }
 
 .showcase-text {
-  font-size: 3em;
+  font-size: 4em;
   font-family: "Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight: bolder;
   color: #000;
   text-align: center;
-  padding-top: 1em;
+  padding-top: 1.5em;
+  text-shadow: 0 0 10px #fff;
 }
 
 .wide
